@@ -144,6 +144,7 @@
 </div>
 
 
+<br/>
 ### 💬 Open to
 
 `Collaborations` · `Open Source` · `Internships` · `Full-Time Opportunities` · `Tech Discussions`
