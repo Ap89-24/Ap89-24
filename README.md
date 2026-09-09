@@ -1,42 +1,59 @@
+<div align="center">
+
 # 👋 Hey, I'm Aman Patel
 
-### 🚀 Full-Stack Developer | 🤖 AI Engineer | ⚙️ Backend & Cloud
+### 🚀 Full-Stack Developer · 🤖 AI Engineer · ⚙️ Backend Builder
 
-> **I build AI-powered products, scalable backend systems, and production-ready applications.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+products+%F0%9F%A4%96;Engineering+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Exploring+Cloud+%26+Kubernetes+%E2%98%81%EF%B8%8F;Turning+ideas+into+real-world+software+%F0%9F%9A%80" alt="Typing SVG" />
 
-I love turning ideas into real-world software — from **LLM-powered applications** and real-time systems to **Kubernetes infrastructure**, cloud deployments, and developer tools.
+<br/>
+
+&nbsp;
+<a href="www.linkedin.com/in/aman-patel-7098b8282">
+<img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:aman082199@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ap89-24&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧠 I BUILD. I BREAK. I LEARN. I SHIP.
+
+**From AI applications to cloud infrastructure — I enjoy building systems that solve real problems.**
+
+</div>
+
+---
+
+## ⚡ About Me
 
 ```text
-💡 BUILD  →  🧠 THINK  →  ⚡ SCALE  →  🚀 SHIP
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  👨‍💻  Full-Stack Developer                                 │
+│                                                             │
+│  🤖  Building AI & LLM-powered applications                │
+│                                                             │
+│  ⚙️  Designing scalable backend systems                    │
+│                                                             │
+│  ⚡  Working with real-time & event-driven architecture     │
+│                                                             │
+│  ☁️  Exploring Cloud, Docker & Kubernetes                   │
+│                                                             │
+│  🧠  Solving problems with DSA & system design              │
+│                                                             │
+│  🚀  Turning ideas into production-ready products           │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 
 
-name: Aman Patel
-role: Full-Stack Developer & AI Engineer
-
-interests:
-  - Artificial Intelligence
-  - LLM Engineering
-  - Backend Architecture
-  - Distributed Systems
-  - Cloud Computing
-  - DevOps
-  - Problem Solving
-
-mindset: "Build things that solve real problems."
-
-🚀 Featured Projects
-⚔️ AI Battle Arena
-
-Where AI models compete. 🤖⚔️
-
-A real-time multi-model AI platform where different LLMs generate responses simultaneously and compete through an AI evaluation system.
-
-🧠 AI & LLM
-
-LangChain LangGraph Mistral Gemini
-
-⚡ Engineering
-
-React Node.js WebSockets REST APIs
-
-🔗 Repository: https://github.com/Ap89-24/AI-Battle-Arena
