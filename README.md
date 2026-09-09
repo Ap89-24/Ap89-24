@@ -105,3 +105,41 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github" />
 </p>
+
+
+
+<h1>📊 GitHub Stats & Activity</h1>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ap89-24&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ap89-24&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ap89-24&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap89-24&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Consistency > Motivation
+
+**Building every day. Learning every day. Improving every day.**
+
+</div>
