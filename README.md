@@ -133,7 +133,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ap89-24&theme=github-compact&hide_border=true&area=true" />
 
 </div>
-
 <br/>
 
 <div align="center">
@@ -143,3 +142,8 @@
 **Building every day. Learning every day. Improving every day.**
 
 </div>
+
+
+### 💬 Open to
+
+`Collaborations` · `Open Source` · `Internships` · `Full-Time Opportunities` · `Tech Discussions`
