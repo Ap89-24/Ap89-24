@@ -1,83 +1,42 @@
-# Hey, I'm Aman Patel 👋
+# 👋 Hey, I'm Aman Patel
 
-### Full-Stack Developer | AI & Backend Engineer 🚀
+### 🚀 Full-Stack Developer | 🤖 AI Engineer | ⚙️ Backend & Cloud
 
-I build scalable web applications, AI-powered products, and backend systems that solve real-world problems.
+> **I build AI-powered products, scalable backend systems, and production-ready applications.**
 
-I'm passionate about turning ideas into production-ready software and exploring the intersection of **AI, backend engineering, and cloud infrastructure**.
+I love turning ideas into real-world software — from **LLM-powered applications** and real-time systems to **Kubernetes infrastructure**, cloud deployments, and developer tools.
 
----
+```text
+💡 BUILD  →  🧠 THINK  →  ⚡ SCALE  →  🚀 SHIP
 
-## 🚀 Featured Projects
 
-### ⚔️ AI Battle Arena
-Multi-model AI platform where LLMs compete in real-time.
+name: Aman Patel
+role: Full-Stack Developer & AI Engineer
 
-**Tech:** React • Node.js • LangChain • LangGraph • Mistral • Gemini
+interests:
+  - Artificial Intelligence
+  - LLM Engineering
+  - Backend Architecture
+  - Distributed Systems
+  - Cloud Computing
+  - DevOps
+  - Problem Solving
 
----
+mindset: "Build things that solve real problems."
 
-### 🛡️ DeployGuard AI
-Kubernetes monitoring and deployment intelligence platform.
+🚀 Featured Projects
+⚔️ AI Battle Arena
 
-**Tech:** TypeScript • Node.js • Kubernetes • WebSockets • Docker
+Where AI models compete. 🤖⚔️
 
----
+A real-time multi-model AI platform where different LLMs generate responses simultaneously and compete through an AI evaluation system.
 
-### 📚 ResearchForge
-AI-powered research assistant for discovering, analyzing, and working with academic papers.
+🧠 AI & LLM
 
-**Tech:** Next.js • LangChain • AI • Vector Search
+LangChain LangGraph Mistral Gemini
 
----
+⚡ Engineering
 
-### 💰 Expense Tracker
-Full-stack financial management application for tracking income and expenses.
+React Node.js WebSockets REST APIs
 
-**Tech:** React • Node.js • Express • MongoDB • Docker
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-Java • JavaScript • TypeScript • Python
-
-### Frontend
-React • Next.js • Tailwind CSS
-
-### Backend
-Node.js • Express • REST APIs
-
-### Database
-MongoDB • PostgreSQL • Supabase
-
-### AI
-LangChain • LangGraph • Mistral • Gemini
-
-### DevOps & Cloud
-Docker • Kubernetes • GitHub Actions • AWS
-
----
-
-## 🎯 Currently Learning
-
-- System Design
-- Kubernetes & Cloud Architecture
-- Advanced DSA
-- LLM Application Development
-- Scalable Backend Systems
-
----
-
-## 📈 GitHub
-
-I enjoy building consistently, learning new technologies, and turning complex problems into practical solutions.
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn
-- 🌐 Portfolio
-- 📧 Email
+🔗 Repository: https://github.com/Ap89-24/AI-Battle-Arena
