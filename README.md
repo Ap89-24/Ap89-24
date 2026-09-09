@@ -57,3 +57,46 @@
 └─────────────────────────────────────────────────────────────┘
 
 
+# 🧰 Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+
+<br/>
+
+## 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+
+<br/>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br/>
+
+## 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+
+<br/>
+
+## 🤖 AI / LLM
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+`LangChain` · `LangGraph` · `Mistral` · `Gemini` · `RAG` · `Vector Search`
+
+<br/><br/>
+
+## ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github" />
+
+</div>
