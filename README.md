@@ -37,7 +37,7 @@
 
 ## ⚡ About Me
 
-```text
+``
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
 │  👨‍💻  Full-Stack Developer                                 │
@@ -57,36 +57,51 @@
 └─────────────────────────────────────────────────────────────┘
 
 
-.
 
-🧰 Tech Stack
-<div align="center">
-💻 Languages
-<img src="https://skillicons.dev/icons?i=java,js,ts,python" />
 
-<br><br>
+# 🧰 Tech Stack
 
-🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+<h2>💻 Languages</h2>
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python" />
+</p>
 
-⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<h2>🎨 Frontend</h2>
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
 
-🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+<h2>⚙️ Backend</h2>
 
-<br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-🤖 AI / LLM
-<img src="https://skillicons.dev/icons?i=python" /> <br>
+<h2>🗄️ Databases</h2>
 
-LangChain · LangGraph · Mistral · Gemini · RAG · Vector Search
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,supabase" />
+</p>
 
-<br><br>
+<h2>🤖 AI / LLM</h2>
 
-☁️ DevOps & Cloud
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github" /> </div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <b>LangChain</b> ·
+  <b>LangGraph</b> ·
+  <b>Mistral</b> ·
+  <b>Gemini</b> ·
+  <b>RAG</b> ·
+  <b>Vector Search</b>
+</p>
+
+<h2>☁️ DevOps & Cloud</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,githubactions,git,github" />
+</p>
