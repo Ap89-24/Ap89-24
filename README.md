@@ -9,7 +9,7 @@
 <br/>
 
 &nbsp;
-<a href="www.linkedin.com/in/aman-patel-7098b8282">
+<a href="https://www.linkedin.com/in/aman-patel-7098b8282/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
